@@ -1,0 +1,21 @@
+{
+  "name": "softwaretests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s3Bucket/softwaretests.git"
+  },
+  "author": "Schmidt Colin",
+  "bugs": {
+    "url": "https://github.com/s3Bucket/softwaretests/issues"
+  },
+  "homepage": "https://github.com/s3Bucket/softwaretests#readme",
+  "dependencies": {
+    "cucumber": "^6.0.7"
+  }
+}

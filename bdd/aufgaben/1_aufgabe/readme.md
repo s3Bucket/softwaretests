@@ -6,7 +6,7 @@ einige Werte geändert werden, um zu sehen, wie sich die Tests verhalten.
 
 ## 1. Verständnis für den Aufbau eines Tests
 
-### 1.1 Der 'feature'-Ordner
+### 1.1 Der 'features'-Ordner
 
 1) Was steht in den '*.feature'-Dateien?
 2) Was sind die Schlüsselworte innerhalb einer '.feature'-Datei?
@@ -20,7 +20,7 @@ einige Werte geändert werden, um zu sehen, wie sich die Tests verhalten.
 
 ## 2. Umgang mit den Funktionen
 
-### 2.1 Der 'feature'-Ordner
+### 2.1 Der 'features'-Ordner
 
 1) Was passiert, wenn ein Schlüsselwort geändert wird?
 2) Was passiert, wenn man einen der Werte ändert?

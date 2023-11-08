@@ -12,8 +12,8 @@ Typischerweise verwendet man die sogenannte "Gherkin"-Syntax, die aus Schlüssel
 ## Vorbereitung
 
 In diesem Projekt wird mit dem Framework "Cucumber" gearbeitet. Es bietet einige Funktionen, die das Arbeiten mit dem BDD-Design erleichtern.
-Mit dem node Packagemanager (npm) muss folgendes Modul installiert werden.
+Um sicher zu gehen, dass ein entsprechendes Modul installiert ist kann folgender Befehl im Terminal eingegeben werden:
 
 ```Terminal
-  npm install --save-dev @cucumber/cucumber
+  npm install cucumber
 ```
