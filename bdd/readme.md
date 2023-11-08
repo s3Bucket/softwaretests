@@ -1,13 +1,13 @@
-# BDD -Behaviour Driven Design
+# BDD - Behaviour Driven Development
 
 ## Beschreibung
 
-Bei BDD werden Tests in einer natürlichen Sprache geschrieben, die für alle Beteiligten verständlich ist. Typischerweise verwendet man dabei sogenannte "Gherkin"-Syntax, die aus Schlüsselwörtern wie "Given" (Gegeben), "When" (Wenn) und "Then" (Dann) besteht. Diese Tests werden dann automatisiert ausgeführt, um sicherzustellen, dass die tatsächliche Implementierung das gewünschte Verhalten aufweist.
-
+Beim BDD werden Tests in einer natürlichen Sprache geschrieben, die für alle Beteiligten verständlich ist.
 Das Ziel ist es, die Zusammenarbeit zwischen Entwicklern, Testern und Nicht-Technikern zu verbessern.
 
-***Im Wesentlichen legt BDD den Fokus auf das Verhalten einer Software aus der Sicht der Endbenutzer.***
+Typischerweise verwendet man die sogenannte "Gherkin"-Syntax, die aus Schlüsselwörtern wie "Given" (Gegeben), "When" (Wenn) und "Then" (Dann) besteht. Diese Tests werden dann automatisiert ausgeführt, um sicherzustellen, dass die tatsächliche Implementierung das gewünschte Verhalten aufweist.
 
+***Im Wesentlichen legt BDD den Fokus auf das Verhalten einer Software aus der Sicht der Endbenutzer.***
 
 ## Vorbereitung
 
