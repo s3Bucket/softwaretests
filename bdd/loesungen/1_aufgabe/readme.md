@@ -12,7 +12,9 @@
 2) Was sind die Schlüsselworte innerhalb einer '.feature'-Datei?
 
 > Feature -> Beschreibt, was durch die Implementierung erreicht werden soll
+>
 > Scenario -> Beschreibt einen möglichen Fall, der durch das Feature abgedeckt werden soll
+>
 > When -> Beschreibt die Vorbedingungen für den Test
 > Then -> Beschreibt das erwartete Ergebnis
 
