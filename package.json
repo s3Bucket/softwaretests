@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/s3Bucket/softwaretests#readme",
   "dependencies": {
-    "cucumber": "^6.0.7"
+    "@cucumber/cucumber": "^10.0.1"
   }
 }
