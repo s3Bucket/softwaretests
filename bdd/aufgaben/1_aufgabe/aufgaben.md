@@ -2,7 +2,13 @@
 
 In diesem Ordner befindet sich ein Beispiel für das Vorgehen bei einem BDD. Versuche die Struktur zu verstehen und
 wie die Komponenten miteinander interagieren. Es muss noch kein eigener Code geschrieben werden, aber es sollen
-einige Werte geändert werden, um zu sehen, wie sich die Tests verhalten. 
+einige Werte geändert werden, um zu sehen, wie sich die Tests verhalten.
+
+> Zum Ausführen der Tests muss folgender Befehl im Hauptverzeichnis eingegeben werden:
+
+```JavaScript
+./node_modules/.bin/cucumber-js ./bdd/aufgaben/1_aufgabe/features/greeting.feature
+```
 
 ## 1. Verständnis für den Aufbau eines Tests
 
