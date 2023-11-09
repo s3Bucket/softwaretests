@@ -23,7 +23,7 @@ einige Werte geändert werden, um zu sehen, wie sich die Tests verhalten.
 ### 2.1 Der 'features'-Ordner
 
 1) Was passiert, wenn ein Schlüsselwort geändert wird?
-2) Was passiert, wenn man einen der Werte ändert?
+2) Was passiert, wenn man einen der Werte ändert, der als Übergabeparameter dient?
 
 ### 2.2 Der 'step'-Ordner
 
