@@ -9,7 +9,7 @@ Es geht nun darum in der jeweils richtigen Datei die angeforderten Tests zu impl
 ./node_modules/.bin/cucumber-js ./bdd/aufgaben/2_aufgabe/features/calculator.feature
 ```
 
-## 1. Schreiben eine Features
+## 1. Schreiben eines Features
 
 1) Schreibe in  die 'calculator.feature' Datei ein Feature zur Berechnung von Zahlen.
   1.1) Schreibe ein Szenario, bei dem zwei Zahlen addiert werden.
