@@ -7,7 +7,7 @@ einige Werte geändert werden, um zu sehen, wie sich die Tests verhalten.
 > Zum Ausführen der Tests muss folgender Befehl im Hauptverzeichnis eingegeben werden:
 
 ```JavaScript
-npm test
+npm test ./tdd/aufgaben/1_aufgabe/greeting.test.js
 ```
 
 ## 1. Verständnis für den Aufbau eines Tests
