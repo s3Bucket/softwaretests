@@ -23,3 +23,9 @@ Um sicher zu gehen, dass ein entsprechendes Modul installiert ist kann folgender
 ```Terminal
   npm install jest
 ```
+
+Zum Ausführen der Tests muss folgender Befehl im Hauptverzeichnis eingegeben werden:
+
+```JavaScript
+npm test
+```
