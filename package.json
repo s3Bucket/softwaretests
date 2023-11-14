@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/s3Bucket/softwaretests#readme",
   "dependencies": {
-    "@cucumber/cucumber": "^10.0.1"
+    "@cucumber/cucumber": "^10.0.1",
+    "selenium-webdriver": "^4.15.0"
   }
 }
